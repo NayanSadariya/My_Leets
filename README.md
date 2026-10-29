@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NayanSadariya/My_Leets/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/NayanSadariya/My_Leets/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/NayanSadariya/My_Leets/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NayanSadariya/My_Leets/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/NayanSadariya/My_Leets/tree/master/0835-image-overlap) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/NayanSadariya/My_Leets/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NayanSadariya/My_Leets/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NayanSadariya/My_Leets/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/NayanSadariya/My_Leets/tree/master/1096-brace-expansion-ii) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NayanSadariya/My_Leets/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/NayanSadariya/My_Leets/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NayanSadariya/My_Leets/tree/master/0242-valid-anagram) |
 | [1096-brace-expansion-ii](https://github.com/NayanSadariya/My_Leets/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/NayanSadariya/My_Leets/tree/master/1331-rank-transform-of-an-array) |
